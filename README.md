@@ -3,11 +3,16 @@
 ### 🚀 About Me
 I am a ** Student ** who is interested in vibe-coding learning as I progress in my projects according to what all I need.
 
-- 💼 **Current Status:** Looking for Internship experience which is Half-time and work from home.
+- 💼 **Current Status:** Student who is looking for Internship experience which is Half-time and work from home.
 - 🌱 **Currently Learning:** API key implementation and Python DSA.
 - 💬 **About Me:** I am a good learner if I have the person who can teach me.
 
 ---
+
+- 🎓 **Education:** Student at **VIT-AP University**, graduating in **2030**.
+- 💻 **Core Focus:** B.Tech. in **Computer Science and Engineering (CSE)**
+  - 📊 **Data Analytics & Engineering** 
+
 
 ### 🛠️ Tech Stack & Capabilities
 *Grouped by proficiency to show technical depth:*
