@@ -34,8 +34,15 @@
 
 ### 🌟 Featured Projects
 
+#### 1. Lecture-Summariser | [Your Role:- Full-stack Development / Engineering.]
 
-#### 1. Skill Mesh | [Your Role:- Debugging and helping it function correctly.]
+- **What it does:** Turn raw lecture recordings and notes into interactive study tools. Built with Next.js and Gemini 2.0, it generates timestamped Mermaid concept graphs, diagnostic quizzes, Feynman recall prompts, and Obsidian-ready Markdown files without storing your API keys on a server.
+  
+- **https://github.com/patro15064-png/Lecture-Summariser**
+  
+- **Business/Technical Impact:** Automates study material generation and saves student hours by converting long recordings into structured, visual, and actionable review notes efficiently.
+
+#### 2. Skill Mesh | [Your Role:- Debugging and helping it function correctly.]
 
 - **What it does:** A collaborative platform designed to visualize, connect with people in community about various problems and other issues easily.
 
@@ -43,13 +50,22 @@
 
 - 📁 https://github.com/Nishanth-1008/SkillMesh
 
-#### 2. 🔴Currently In Progress:-| [Your Role:- Backend+Frontend UI/UX and also designing]
+#### 3. 🔴Currently In Progress:-| [Your Role:- Backend+Frontend UI/UX and also designing]
 
 - **What it does:** A communication utility that integrates Truecaller's identity verification with Discord's server ecosystems to enhance user trust with adding new security features and also steps towards weather info.
 
 - **Business/Technical Impact:** Better management of communication with more security and helpful features.
 
 - 📁 Currently in private repository.
+
+#### 4. SoulCredit | [Your Role:- Game Development / Systems Programming.]
+
+- **What it does:** A faithful Shattered Pixel Dungeon (SPD) style turn-based roguelike built natively in Godot 4.x with GDScript. Set in a corporate dystopian world where "Your Lifespan is Your Currency," it features a unique time-based mechanics loop, procedural dungeon generation across 10 floors and 5 sectors, and deep narrative systems centered around a protagonist fighting back against an ironclad corporate hierarchy.
+  
+- **https://github.com/patro15064-png/SoulCredit**
+  
+- **Business/Technical Impact:** Implements complex state machines for turn-based combat, optimized grid-based collision handling, and modular architectural systems in Godot 4.x that ensure performance scaling during extensive dungeon generation sequences.
+
 
 
 🤝 Let's Connect!
