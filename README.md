@@ -66,7 +66,10 @@
   
 - **Business/Technical Impact:** Implements complex state machines for turn-based combat, optimized grid-based collision handling, and modular architectural systems in Godot 4.x that ensure performance scaling during extensive dungeon generation sequences.
 
-
+### 5. 🦖 Prehistoric Wilds | [Your Role:- 3D Front-End Developer / Gameplay Programmer]
+• What it does: A stylized, 3D browser-based action-hunting and crafting expedition game built using Three.js, TypeScript, and Vite. Players explore untamed biomes, hunt ferocious apex beasts featuring telegraphed combat mechanics (combos, dodge rolls, and dynamic lock-on targeting), harvest natural resources, track wildlife clues, and manage base camp upgrades across three distinct stages.
+• [github.com](https://github.com/patro15064-png/Prehistoric-Wilds)
+• Business/Technical Impact: Implements low-overhead 3D asset rendering and interactive environmental collision in the browser using Three.js. Leverages strongly-typed TypeScript state systems to manage real-time gameplay loops, complex input handling for 4 distinct weapon classes, dynamic combat hitboxes, and continuous state automation scripts optimized for fast Vite bundle delivery.
 
 🤝 Let's Connect!
 
